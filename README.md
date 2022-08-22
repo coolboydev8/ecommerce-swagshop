@@ -32,3 +32,21 @@ MONGO_URI = mongodb uri
 JWT_SECRET = jwt secret 
 PAYPAL_CLIENT_ID = paypal client id
 ~~~
+
+### Install Dependencies
+~~~
+npm i
+cd frontend
+npm i
+~~~
+
+### Run
+~~~
+npm run dev
+~~~
+
+### Build & Deploy
+~~~
+cd frontend
+npm run build
+~~~
