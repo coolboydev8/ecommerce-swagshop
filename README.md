@@ -1,5 +1,5 @@
 # SwagShop eCommerce Store
-eCommerce store built with MERN Stack + Redux.
+eCommerce store built with the MERN Stack + Redux.
 
 ## Website
 https://swagshopapp.herokuapp.com/
